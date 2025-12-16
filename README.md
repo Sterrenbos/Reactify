@@ -10,7 +10,7 @@
 
 **A CLI tool to download stunning, production-ready React components directly into your project.**
 
-[Live Preview](https://dyon.nl/components) • [NPM Package](https://www.npmjs.com/package/reactify-comp) • [Report Bug](https://github.com/Sterrenbos/Reactify/issues)
+[Live Preview](https://dyon.nu/#/components) • [NPM Package](https://www.npmjs.com/package/reactify-comp) • [Report Bug](https://github.com/Sterrenbos/Reactify/issues)
 
 </div>
 
@@ -203,7 +203,7 @@ export default GlowButton;
 
 Want to see the components in action before downloading?
 
-**👉 [View All Components](https://dyon.nl/components)**
+**👉 [View All Components](https://dyon.nu/#/components)**
 
 Browse the full library with interactive previews and find the perfect components for your project.
 
@@ -237,7 +237,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 <div align="center">
 
-**Made with ❤️ by [Dyon](https://dyon.nl)**
+**Made with ❤️ by [Dyon](https://dyon.nu)**
 
 If you find this helpful, please consider giving it a ⭐
 
